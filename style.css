@@ -29,8 +29,26 @@ h2{
     justify-content: center; 
 }
 .card{
-    background-color: aqua;
+    background-color: rgb(71, 92, 92);
     height: 400px;
     width: 30%;
     margin-top: 20PX;
+}
+img{
+    width: 300px;
+    margin-top: 10px;
+    margin-left: 55px;
+}
+.h{
+    color: aliceblue;
+    margin-left: 65px;
+    margin-top: 10px;
+}
+.h1{
+    color: aliceblue;
+    margin-left: 90px;
+    margin-top: 5px;
+}
+.xa{
+    height: 300px;
 }

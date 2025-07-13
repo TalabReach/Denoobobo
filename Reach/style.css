@@ -51,5 +51,18 @@ img{
       text-decoration: none;
       font-weight: bold;
     }
+    .content{
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      justify-content: center;
+    }
+    .card{
+    background-color: rgb(71, 92, 92);
+    height: 400px;
+    width: 30%;
+    margin-top: 20PX;
+    
+}
     
 

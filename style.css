@@ -26,7 +26,8 @@ h2{
 .content{
     display: flex;
     gap: 20px;
-    justify-content: center; 
+    justify-content: center;
+    flex-wrap: wrap; 
 }
 .card{
     background-color: rgb(71, 92, 92);
